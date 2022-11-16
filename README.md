@@ -10,11 +10,11 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Desktop
+![alt text](https://github.com/maclarenscott/nftcard/blob/main/screenshot.png)
 
-![](./screenshot.jpg)]]
 
 ### Mobile
-![](./screenshot2.jpg)
+![alt text](https://github.com/maclarenscott/nftcard/blob/main/screenshot2.png)
 
 
 ## My process
